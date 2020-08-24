@@ -17,5 +17,6 @@
 - [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
 
 ### Find me here 👇
-- [LinkedIn](https://www.linkedin.com/in/maximebounaasferret/)
-- [Malt.fr](https://www.malt.fr/profile/maximebounaas)
+<a href="https://www.linkedin.com/in/maximebounaasferret/"> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/social_linkedin.png" /> </a>
+<a href="https://www.malt.fr/profile/maximebounaas"> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/social_malt.png" /> </a>
+
