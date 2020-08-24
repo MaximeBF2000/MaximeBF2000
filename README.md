@@ -11,10 +11,10 @@
 - I'm currently available for missions ✔
 
 ### A few projects I've worked on 👇
-- [Videozz](https://videozz.netlify.app/){:target="_blank"} : A Netflix for information and trailers
-- [WhereAmI](https://where-i-am.netlify.app/){:target="_blank"} : A adress to GPS coordinates map
-- [3w-Code](https://3w-code.netlify.app/){:target="_blank"} : A landing page for an online development bootcamp
-- [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/){:target="_blank"} : My personal portfolio
+- [Videozz](https://videozz.netlify.app/) : A Netflix for information and trailers
+- [WhereAmI](https://where-i-am.netlify.app/) : A adress to GPS coordinates map
+- [3w-Code](https://3w-code.netlify.app/) : A landing page for an online development bootcamp
+- [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
 
 ### The tech I'm used to 👇
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/jsLogo.png" /> </a>
