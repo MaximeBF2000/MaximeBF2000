@@ -15,3 +15,7 @@
 - [WhereAmI](https://where-i-am.netlify.app/) : A adress to GPS coordinates map
 - [3w-Code](https://3w-code.netlify.app/) : A landing page for a online development bootcamp
 - [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
+
+### Find me here 👇
+- [LinkedIn](https://www.linkedin.com/in/maximebounaasferret/)
+- [Malt.fr](https://www.malt.fr/profile/maximebounaas)
