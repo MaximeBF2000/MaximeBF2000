@@ -13,7 +13,7 @@
 ### A few projects I've worked on 👇
 - [Videozz](https://videozz.netlify.app/) : A Netflix for information and trailers
 - [WhereAmI](https://where-i-am.netlify.app/) : A adress to GPS coordinates map
-- [3w-Code](https://3w-code.netlify.app/) : A landing page for a online development bootcamp
+- [3w-Code](https://3w-code.netlify.app/) : A landing page for an online development bootcamp
 - [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
 
 ### Find me here 👇
