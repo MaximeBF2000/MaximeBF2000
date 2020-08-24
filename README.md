@@ -17,7 +17,8 @@
 - [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
 
 ### The tech I'm used to 👇
-<a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/webTechLogo.png" /> </a>
+<a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/htmlcssLogo.png" /> </a>
+<a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/jsLogo.png" /> </a>
 <a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/reactLogo.png" /> </a>
 <a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/sassLogo.png" /> </a>
 <a> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/nodejsLogo.png" /> </a>
