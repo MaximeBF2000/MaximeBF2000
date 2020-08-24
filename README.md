@@ -1,4 +1,4 @@
-# [![Maxime Bounaas Header](github_banner.png)](https://maxime-bounaas.netlify.app/)
+# [![Maxime Bounaas Header](https://github.com/MaximeBF2000/MaximeBF2000/edit/master/github_banner.png)](https://maxime-bounaas.netlify.app/)
 
 ### Hey there 👋
 
