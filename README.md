@@ -1,3 +1,5 @@
+# [![Maxime Bounaas Header](/../main/github_banner.png)](https://maxime-bounaas.netlify.app/)
+
 ### Hey there 👋
 
 ## I'm a Javascript / React.js Freelance Developer
