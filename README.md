@@ -5,7 +5,7 @@
 ## I'm a Javascript / React.js Freelance Developer
 ### I help compagnies and individuals to grow their projects on the web 🚀
 
-- I'm currently learning React Native & Google Firebase 📚
+- I'm currently learning Shopify & liquid 📚
 - I develop Responsive web Apps 📱
 - I place the business goals first 📈  
 - I'm currently available for missions ✔
