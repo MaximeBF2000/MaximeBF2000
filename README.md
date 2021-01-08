@@ -14,16 +14,18 @@
 - [Videozz](https://videozz.netlify.app/) : A Netflix for information and trailers
 - [WhereAmI](https://where-i-am.netlify.app/) : A adress to GPS coordinates map
 - [3w-Code](https://3w-code.netlify.app/) : A landing page for an online development bootcamp
-- [Maxime BOUNAAS-FERRET](https://maxime-bounaas.netlify.app/) : My personal portfolio
+- [Maxime BOUNAAS-FERRET](https://maxime-bounaas.fr/) : My personal portfolio
 
 ### The tech I'm used to 👇
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/jsLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/reactLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/sassLogo.png" /> </a>
+<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/firebaseLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/nodejsLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/pythonLogo.png" /> </a>
-<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/firebaseLogo.png" /> </a>
-
+<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/gatsbyLogo.png" /> </a>
+<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/mongodbLogo.png" /> </a>
+<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/netlifyLogo.png" /> </a>
 
 ### Find me here 👇
 <a target="_blank" href="https://www.linkedin.com/in/maximebounaasferret/"> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/social_linkedin.png" /> </a>
