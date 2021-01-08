@@ -22,6 +22,8 @@
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/sassLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/nodejsLogo.png" /> </a>
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/pythonLogo.png" /> </a>
+<a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/firebaseLogo.png" /> </a>
+
 
 ### Find me here 👇
 <a target="_blank" href="https://www.linkedin.com/in/maximebounaasferret/"> <img height="30" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/social_linkedin.png" /> </a>
