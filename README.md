@@ -2,19 +2,19 @@
 
 ### Hey there 👋
 
-## I'm a Javascript / React.js Freelance Developer
-### I help compagnies and individuals to grow their projects on the web 🚀
+## I'm a Fullstack Javascript Developer
+### I help people build their tech product, without the headache 🚀
 
-- I'm currently learning Machine Learning & Shopify app developement 📚
+- I work with React, Next and Node since 2018 ✨
+- I'm currently learning Machine Learning 📚
 - I develop Responsive web Apps 📱
 - I place the business goals first 📈  
 - I'm currently available for missions ✔
 
 ### A few projects I've worked on 👇
+- [Bedrock Streaming](https://bedrockstreaming.com/) : A white label plateform to make direct-to-consumer streaming plateforms
+- [Bedrock Forms](https://bedrockstreaming.github.io/forms/) : An open-source configurable form builder from json configuration, built on top of [react-hook-form](https://react-hook-form.com/)
 - [Videozz](https://videozz.netlify.app/) : A Netflix for information and trailers
-- [WhereAmI](https://where-i-am.netlify.app/) : A adress to GPS coordinates map
-- [3w-Code](https://3w-code.netlify.app/) : A landing page for an online development bootcamp
-- [Maxime BOUNAAS-FERRET](https://maxime-bounaas.fr/) : My personal portfolio
 
 ### The tech I'm used to 👇
 <a> <img height="40" src="https://github.com/MaximeBF2000/MaximeBF2000/blob/master/jsLogo.png" /> </a>
