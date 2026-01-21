@@ -1,15 +1,10 @@
 # [![Maxime Bounaas Header](https://github.com/MaximeBF2000/MaximeBF2000/blob/master/github_header.png)](https://maxime-ferret.vercel.app/)
 
-### Hey there 👋
+### Hi there, I'm Maxime
 
-## I'm a Fullstack Software engineer
-### I help people build their tech product, without the headache 🚀
+**Software Engineer | AI enthusiast | Entrepreneur**
 
-- I work with web technologies since 2018 ✨
-- I'm currently deep in the worlds of AI coding, local-first development and MacOS dev 📚
-- I develop Responsive web Apps 📱
-- I place the business goals first 📈  
-- I'm currently available for missions ✔
+> I do software engineering for fun and profit since 2018. Currently deep in the worlds of AI coding, local-first development and MacOS dev.
 
 ### A few projects I've worked on / I work on 👇
 
