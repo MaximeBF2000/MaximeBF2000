@@ -22,6 +22,7 @@
 - 👔 [LinkedIn AutoConnect](https://github.com/MaximeBF2000/linkedin-autoconnect-chrome-extension) - Chrome extension that automate sending of invites on the search page, by controlling the browser
 - 🗺️ [Gmaps Scraper Chrome](https://github.com/MaximeBF2000/google-map-contact-scraper-chrome-extension) - Chrome extension to scrape Google Maps results
 - ⭐️ [Malt Scraper Chrome](https://github.com/MaximeBF2000/malt-scraper-chrome-extension) - Chrome extension that scrapes Malt profiles and exports to CSV
+- ⚡️ [Duplicate Chrome Tabs](https://github.com/MaximeBF2000/duplicate_chrome_tab_extension) - Chrome extension that adds "Option + D" shortcut to duplicate the focused tab
 
 
 ### The tech I'm used to 👇
