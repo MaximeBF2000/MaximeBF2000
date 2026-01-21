@@ -1,4 +1,4 @@
-# Hi there, I'm Maxime
+# Hi there 👋 I'm Maxime
 
 **Software Engineer | AI enthusiast | Entrepreneur**
 
