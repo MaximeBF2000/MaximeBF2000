@@ -4,6 +4,8 @@
 
 > I do software engineering for fun and profit since 2018. <br>Currently deep in the worlds of AI coding, local-first development and MacOS dev.
 
+*← btw thanks NanoBananaPro for the pic, I look much more chill in person*
+
 ### A few projects I've worked on / I work on 👇
 
 - 🎬 [Momentum](https://github.com/MaximeBF2000/momentum-capture) - MacOS Screen recording app
