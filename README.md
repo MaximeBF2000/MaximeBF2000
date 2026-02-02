@@ -27,6 +27,7 @@
 - ⚡️ [Duplicate Chrome Tabs](https://github.com/MaximeBF2000/duplicate_chrome_tab_extension) - Chrome extension that adds "Option + D" shortcut to duplicate the focused tab
 - 🅿️ [Pappers.fr Scraper Chrome](https://github.com/MaximeBF2000/pappersfr-scraper-chrome-extension) - Chrome extension that scrapes pappers.fr search results page
 - 🤖 [CSV editor AI](https://github.com/MaximeBF2000/csv-ai-editor-cli) - CLI tool to edit a CSV with AI / talk to your CSV file
+- ⛏️ [WelcomeToTheJungle Scraper](https://github.com/MaximeBF2000/welcome-to-the-jungle-scraper) - CLI tool to scrape welcometothejunlge.com + PHP webapp to explore and export subset of data
 
 
 ### The tech I'm used to 👇
